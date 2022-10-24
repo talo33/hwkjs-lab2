@@ -1,0 +1,100 @@
+.one-five{
+	margin-left: 180px;
+	float: left;
+}
+
+.six-ten{
+	margin-left: 180px;
+	float: left;
+}
+
+
+body {
+	text-align: center;
+	background-image: radial-gradient( circle farthest-corner,  rgba(0,152,155,1) 0.1%, rgba(0,94,120,1) 94.2% );
+}
+
+h1 {
+	font-size: 5rem;
+	color: #92d4eb;
+	font-family: roboto;
+	text-shadow: 3px 0 #DA0463;
+}
+
+.w {
+	float: left;
+	width: 40%;
+	background-image: url("./images/w.png");
+}
+
+.a {
+	float: left;
+	width: 20%;
+	background-image: url("images/a.png");
+}
+
+.s {
+	float: left;
+	width: 20%;
+	background-image: url("images/s.png");
+}
+
+.d {
+	float: left;
+	width: 20%;
+	background-image: url("images/d.png");
+}
+
+.j {
+	float: left;
+	width: 20%;
+	background-image: url("images/j.png");
+}
+
+.k {
+	float: left;
+	width: 20%;
+	background-image: url("images/k.png");
+}
+
+.l {
+	float: left;
+	width: 20%;
+	background-image: url("images/l.png");
+}
+
+.g {
+	float: left;
+	width: 20%;
+	background-image: url("images/g.jpeg");
+}
+
+.f {
+	float: left;
+	width: 20%;
+	background-image: url("images/f.jpeg");
+}
+
+.p {
+	float: left;
+	width: 20%;
+	background-image: url("images/p.webp");
+}
+
+.btn {
+	outline: none;
+	border: 10px solid rgb(63, 62, 62);
+	font-size: 5rem;
+	font-family: 'Lucida Grande';
+	line-height: 2;
+	font-weight: 900;
+	color: #DA0463;
+	text-shadow: 3px 0 #DBEDF3;
+	border-radius: 15px;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 40px;
+	background-color: white;
+}
